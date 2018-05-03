@@ -1,0 +1,4 @@
+include licence
+include README.rst
+recursive-include dannyscrumy/static *
+recursive-include dannyscrumy/templates *

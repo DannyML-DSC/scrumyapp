@@ -1,0 +1,16 @@
+MANIFEST.in
+README.rst
+setup.py
+dannyscrumy/__init__.py
+dannyscrumy/admin.py
+dannyscrumy/apps.py
+dannyscrumy/models.py
+dannyscrumy/tests.py
+dannyscrumy/urls.py
+dannyscrumy/views.py
+dannyscrumy/migrations/0001_initial.py
+dannyscrumy/migrations/__init__.py
+django_dannyscrumy.egg-info/PKG-INFO
+django_dannyscrumy.egg-info/SOURCES.txt
+django_dannyscrumy.egg-info/dependency_links.txt
+django_dannyscrumy.egg-info/top_level.txt
